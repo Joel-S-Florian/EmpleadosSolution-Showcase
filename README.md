@@ -6,6 +6,8 @@
 
 ## Cómo se ve
 
+![Página de bienvenida: "La nómina completa, sin hojas de cálculo" con un recibo de pago de ejemplo](docs/img/landing.png)
+
 | Inicio | Simulador de nómina |
 |---|---|
 | ![Inicio con gráficos de costo de nómina y empleados por departamento](docs/img/inicio-graficos.jpg) | ![Simulador de nómina con validaciones y cálculo paso a paso](docs/img/simulador-nomina.jpg) |
